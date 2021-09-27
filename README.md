@@ -1,5 +1,5 @@
 ### Hi there 👋🏾
-* 💁🏾‍♀️ My name is Candra Fried (pronounced CAN-DRUH, FREED)
+* 💁🏾‍♀️ My name is Candra Fried (pronounced CAN-DRUH, FREED), but my friends and family call me Candy 🍬
 * 👩🏾♀ My pronouns are She/Her
 * 🤠🇨🇱 I was born and raised in Dallas, Texas, though I lived in Philadelphia 🦅 for nearly 20 years
 * 👩🏾‍🎓🏛 I have a BFA from Moore College of Art & Design
@@ -8,7 +8,8 @@
 * 📃🌱 I'm currently working on a Certification in Full Stack Development from Southern Methodist University (SMU)
 * 💖 Lover of all things Art-related 🎨, Tech-related 💻, and Higher Education 📚
 * ✨ Fun Fact: I once wrestled an alligator
-* 📩 Contact me for collaboration, conversation, networking, or to find out how and why I ended up wrestling an alligator 🐊🐊🐊
+* 📬 Contact me for collaboration, conversation, networking, or to find out how and why I ended up wrestling an alligator 🐊🐊🐊
+* 📩 letschat@candracodes.com
 <!--
 **candracodes/candracodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
