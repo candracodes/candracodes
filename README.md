@@ -1,13 +1,13 @@
 ### Hi there 👋🏾
 * 💁🏾‍♀️ My name is Candra Fried (pronounced CAN-DRUH, FREED), but my friends and family call me Candy 🍬
-* 👩🏾♀ My pronouns are She/Her
-* 🤠🇨🇱 I was born and raised in Dallas, Texas, though I lived in Philadelphia 🦅 for nearly 20 years
-* 👩🏾‍🎓🏛 I have a BFA from Moore College of Art & Design
+* 👩🏾💃🏽 My pronouns are She/Her
+* 🤠🇨🇱 I was born and raised in Dallas, Texas, though I lived in Philadelphia (My second home 🦅) for nearly 20 years
+* 👩🏾‍🎓🏛 I have a BFA in Graphics & Illustration from Moore College of Art & Design
 * 👩🏾‍🎓🏛 I have a Masters in Computer Information Science from Penn State University
 * 📃 I have a Certification in Application Development from LaSalle University
-* 📃🌱 I'm currently working on a Certification in Full Stack Development from Southern Methodist University (SMU)
-* 💖 Lover of all things Art-related 🎨, Tech-related 💻, and Higher Education 📚
-* ✨ Fun Fact: I once wrestled an alligator
+* 📚 I'm currently working on a Certification in Full Stack Development from Southern Methodist University (SMU)
+* 💖 Lover of all things Art-related 🎨, Tech-related 💻, Food-related 🍕, and Higher Education 📚
+* ✨ Fun Fact: I once wrestled an alligator 🐊
 * 📬 Contact me for collaboration, conversation, networking, or to find out how and why I ended up wrestling an alligator 🐊🐊🐊
 * 📩 letschat@candracodes.com
 <!--
