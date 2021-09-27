@@ -8,7 +8,7 @@
 * 📃🌱 I'm currently working on a Certification in Full Stack Development from Southern Methodist University (SMU)
 * 💖 Lover of all things Art-related 🎨, Tech-related 💻, and Higher Education 📚
 * ✨ Fun Fact: I once wrestled an alligator
-* 📩 Contact me for collaboration, conversation, networking, or to find out how and why I ended up wrestling an alligator
+* 📩 Contact me for collaboration, conversation, networking, or to find out how and why I ended up wrestling an alligator 🐊🐊🐊
 <!--
 **candracodes/candracodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
