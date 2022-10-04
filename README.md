@@ -5,7 +5,7 @@
 * 👩🏾‍🎓🏛 I have a BFA in Graphics & Illustration from Moore College of Art & Design
 * 👩🏾‍🎓🏛 I have a Masters in Computer Information Science from Penn State University
 * 📃 I have a Certification in Application Development from LaSalle University
-* 📚 I'm currently working on a Certification in Full Stack Development from Southern Methodist University (SMU)
+* 📚 I also have a Certification in Full Stack Development from Southern Methodist University (SMU)
 * 💖 Lover of all things Art-related 🎨, Tech-related 💻, Food-related 🍕, and Higher Education 📚
 * ✨ Fun Fact: I once wrestled an alligator 🐊
 * 📬 Contact me for collaboration, conversation, networking, or to find out how and why I ended up wrestling an alligator 🐊🐊🐊
